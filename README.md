@@ -1,10 +1,10 @@
-# XXX collection
+# Development Policy collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 
-A collection of XXX collected from YYY.
+A collection of Development Policies collected from Local Authorities.
 
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
+The national dataset is in a format consistent with other Digital Land datasets as defined by the [development-policy schema](https://digital-land.github.io/specification/schema/development-policy/).
 
 # Collection
 
