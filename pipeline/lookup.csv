@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 development-policy,,local-authority-eng:BUC,avdlp-GP2,5600000
 development-policy,,local-authority-eng:BUC,avdlp-GP3,5600001
 development-policy,,local-authority-eng:BUC,avdlp-GP4,5600002
